@@ -1,0 +1,19 @@
+# ==============================================================================
+# PROJECT DEPENDENCIES
+# ==============================================================================
+# This project implements a Movie Ticket Booking & Database Management System.
+# All dependencies here directly support the verification and presentation of:
+# 1. ★ "Eliminated double-bookings across all concurrent transactions through trigger-based seat allocation."
+# 2. ★ "Enforced 3NF normalisation ensuring all updates propagate consistently with no manual correction needed."
+# 3. ★ "Replaced ad-hoc reporting with stored procedures delivering occupancy and revenue analytics on demand."
+# ==============================================================================
+
+flask>=3.0.0
+flask-cors>=4.0.0
+mysql-connector-python>=8.2.0
+pandas>=2.0.0
+streamlit>=1.30.0
+plotly>=5.18.0
+requests>=2.31.0
+pytest>=7.4.0
+ipykernel>=6.0.0

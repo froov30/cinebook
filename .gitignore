@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / Agent files
+.vscode/
+.idea/
+*.swp
+*.swo
+.agents/
+
+# SQLite database (generated at runtime by run_setup.py)
+database/booking.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Hyperframes rendering intermediates (keep only brag.mp4 and brag.jpg)
+brag-output/composition/
+brag-output/*.md
+brag-output/share-copy.txt
+
+# Internal build specification (not for public repo)
+docs/ORIGINAL_REQUEST.md
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+
+# Node (in case hyperframes left artifacts)
+node_modules/
+package-lock.json
