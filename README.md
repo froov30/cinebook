@@ -22,21 +22,7 @@
 
 ## 🎥 Demo
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/placeholder/brag.mp4" width="100%" controls autoplay muted>
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-> **Can't see the video?** [Download and watch the demo →](brag-output/brag.mp4)
-
-<p align="center">
-  <a href="brag-output/brag.mp4">
-    <img src="brag-output/brag.jpg" alt="CineBook Launch Video — Click to Watch" width="720"/>
-  </a>
-  <br>
-  <em>▶ Click the image above to watch the full demo video</em>
-</p>
+https://github.com/user-attachments/assets/f22a47b8-8fa1-4cf2-8b28-bc24a24c0b06
 
 ---
 
@@ -129,7 +115,7 @@ cinebook/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/cinebook.git
+git clone https://github.com/froov30/cinebook.git
 cd cinebook
 
 # 2. Install dependencies

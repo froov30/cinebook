@@ -33,13 +33,12 @@ desktop.ini
 htmlcov/
 .coverage
 
-# Hyperframes rendering intermediates (keep only brag.mp4 and brag.jpg)
-brag-output/composition/
-brag-output/*.md
-brag-output/share-copy.txt
+# Hyperframes & Video artifacts
+brag-output/
 
-# Internal build specification (not for public repo)
-docs/ORIGINAL_REQUEST.md
+# Internal documentation / specs / plans
+docs/
+docx/
 
 # Jupyter / IPython
 .ipynb_checkpoints/
@@ -48,6 +47,6 @@ docs/ORIGINAL_REQUEST.md
 .env
 .env.local
 
-# Node (in case hyperframes left artifacts)
+# Node
 node_modules/
 package-lock.json

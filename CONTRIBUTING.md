@@ -13,7 +13,7 @@ Thank you for considering contributing to CineBook! This document provides guide
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cinebook.git
+git clone https://github.com/froov30/cinebook.git
 cd cinebook
 
 # Create a virtual environment
