@@ -22,7 +22,7 @@
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/f22a47b8-8fa1-4cf2-8b28-bc24a24c0b06
+https://github.com/user-attachments/assets/a03727a4-40b6-44a7-82b0-a7656115405c
 
 ---
 
